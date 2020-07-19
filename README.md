@@ -1,4 +1,10 @@
-### Hi there 👋
+
+Hi!
+
+My name is Monique Cinatl, and I am an aspiring junior developer. I am currently working through Treehouse's Full Stack JavaScript techdegree, and am looking forward to a lifetime of continued learning! I have 7 years of experience working in higher education, and I am ready to bring my organization, problem-solving, collaboration, and communication skills into the tech world.
+
+:sparkles: Also, because I am obsessed with them, here is my litte family --> :dog2: Riley, :cat: Finn, and :man: my hubby! These are my people.
+![hi there](/FAM.jpg)
 
 <!--
 **DevMo-13/DevMo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
