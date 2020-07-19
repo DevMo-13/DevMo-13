@@ -10,7 +10,7 @@ I am currently working through Treehouse's Full Stack JavaScript techdegree, and
 - Next up: freeCodeCamp's Responsive Web Design Cerification
 
 :sparkles: Also, because I am obsessed with them, here is my litte family --> :dog2: Riley, :cat: Finn, and :man: my hubby! These are my people.
-![myFam](/FAM.jpg)
+![myFam](FAM.jpg)
 
 <!--
 **DevMo-13/DevMo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
