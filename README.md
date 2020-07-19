@@ -1,9 +1,9 @@
 
 Hi!
 
-My name is Monique Cinatl, and I am an aspiring junior developer. I have 7 years of experience working in higher education, and I am ready to bring my organization, problem-solving, collaboration, and communication skills into the tech world. 
+My name is Monique Cinatl, and I am an aspiring junior developer. I have 7+ years of experience working in higher education, and I am eager to bring my strong organizational and communication skills, the ability to effectively problem solve and troubleshoot issues, and a demonstrated drive to succeed into a new career in tech.
 
-I am currently working through Treehouse's Full Stack JavaScript techdegree, and am looking forward to a lifetime of continued learning. Take a look at my repositories below to see some of the projects I have worked on throughout my techdegree journey. As a code newbie, I am eager to learn and improve, so if you have any feedback you could provide or know of any job opportunities, I would love to get in touch!
+I am currently working through Treehouse's Full Stack JavaScript techdegree, and I am looking forward to a lifetime of continued learning. Take a look at my repositories to see some of the projects I have worked on throughout my techdegree journey. As a code newbie, I am eager to learn and improve, so if you have any feedback you could provide or know of any job opportunities, I would love to get in touch!
 
 - Currently working on: Treehouse's FSJS Techdegree
 
