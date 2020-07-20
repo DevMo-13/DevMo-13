@@ -1,7 +1,7 @@
 
 Hi!
 
-My name is Monique Cinatl, and I am an aspiring front-end web developer. I have 7+ years of experience working in higher education, and I am eager to bring my strong organizational and communication skills, the ability to effectively problem solve and troubleshoot issues, and a demonstrated drive to succeed into a new career in tech.
+My name is Monique Cinatl, and I am a front-end web developer. I have 7+ years of experience working in higher education, and I am eager to bring my strong organizational and communication skills, the ability to effectively problem solve and troubleshoot issues, and a demonstrated drive to succeed into a new career in tech.
 
 I am currently working through Treehouse's Full Stack JavaScript techdegree, and I am looking forward to a lifetime of continued learning. Take a look at my repositories to see some of the projects I have worked on throughout my techdegree journey. As a code newbie, I am eager to learn and improve, so if you have any feedback you could provide or know of any job opportunities, I would love to get in touch!
 
