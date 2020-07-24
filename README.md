@@ -1,5 +1,5 @@
 <p align='center'>
-    <img alt='Monique' src='./android-chrome-512x512.png' width='150' />
+    <img alt='favicon' src='https://github.com/DevMo-13/DevMo-13/blob/master/android-chrome-512x512.png' width='150' />
 </p>
 <h1 align='center'>
   	MONIQUE RICO CINATL
