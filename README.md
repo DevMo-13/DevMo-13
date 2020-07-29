@@ -9,7 +9,7 @@ Hi!
 
 My name is Monique, and I am a full stack web developer. I have 7+ years of experience working in higher education, and I am eager to bring my strong organization and communication skills, the ability to effectively problem solve and troubleshoot issues, and a demonstrated drive to succeed into a new career in tech.
 
-I am recent Treehouse Full Stack JavaScript techdegree grad, and I am looking forward to a lifetime of continued learning. Take a look at my repositories to see some of the projects I worked on throughout my techdegree journey. As a code newbie, I am eager to learn and improve, so if you have any feedback you could provide or know of any job opportunities, I would love to get in touch!
+I am a recent Treehouse Full Stack JavaScript techdegree grad, and I am looking forward to a lifetime of continued learning. Take a look at my repositories to see some of the projects I worked on throughout my techdegree journey. As a code newbie, I am eager to learn and improve, so if you have any feedback you could provide or know of any job opportunities, I would love to get in touch!
 
 - Currently working on: freeCodeCamp's Responsive Web Design Cerification
 
