@@ -13,6 +13,10 @@ I am a recent Treehouse Full Stack JavaScript techdegree grad, and I am looking 
 
 • Additional certifications: freeCodeCamp's Responsive Web Design Cerification - July 2020
 
+<br>
+<p align='center'>
+    <img alt='design' src='https://github.com/DevMo-13/DevMo-13/blob/master/devmo-color-png.png' width='600' />
+</p>
 
 <!--
 **DevMo-13/DevMo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
