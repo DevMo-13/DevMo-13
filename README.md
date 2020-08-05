@@ -11,8 +11,6 @@ My name is Monique, and I am a full stack web developer. I have 7+ years of expe
 
 I am a recent Treehouse Full Stack JavaScript techdegree grad, and I am looking forward to a lifetime of continued learning. Take a look at my repositories to see some of the projects I worked on throughout my techdegree journey. As a code newbie, I am eager to learn and improve, so if you have any feedback you could provide or know of any job opportunities, I would love to get in touch!
 
-• Additional certifications: freeCodeCamp's Responsive Web Design Cerification - July 2020
-
 <br>
 <p align='center'>
     <img alt='design' src='https://github.com/DevMo-13/DevMo-13/blob/master/devmo-color-png.png' width='600' />
