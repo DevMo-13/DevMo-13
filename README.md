@@ -13,7 +13,7 @@ I am a recent Treehouse Full Stack JavaScript techdegree grad, and I am looking 
 
 <br>
 <p align='center'>
-    <img alt='design' src='https://github.com/DevMo-13/DevMo-13/blob/master/devmo-color-png.png' width='600' />
+    <img alt='design' src='https://github.com/DevMo-13/DevMo-13/blob/master/devmo-color-png.png' width='700' />
 </p>
 
 <!--
