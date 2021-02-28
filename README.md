@@ -1,5 +1,5 @@
 <p align='center'>
-    <img alt='favicon' src='https://github.com/DevMo-13/DevMo-13/blob/master/android-chrome-512x512.png' width='100' />
+    <img alt='favicon' src='https://github.com/DevMo-13/DevMo-13/blob/main/android-chrome-512x512.png' width='100' />
 </p>
 <h1 align='center'>
   	MONIQUE RICO CINATL
@@ -13,7 +13,7 @@ I am a recent Treehouse Full Stack JavaScript techdegree grad, and I am looking 
 
 <br>
 <p align='center'>
-    <img alt='design' src='https://github.com/DevMo-13/DevMo-13/blob/master/devmo-color.png' width='700' />
+    <img alt='design' src='https://github.com/DevMo-13/DevMo-13/blob/main/devmo-color.png' width='700' />
 </p>
 
 <!--
